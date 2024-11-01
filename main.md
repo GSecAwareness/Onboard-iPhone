@@ -10,7 +10,7 @@
 
 #### 2) Open the app and read through the setup steps. Press Begin to start the setup process  
 
-Insert 1 pic (setup process)
+![get-content](https://github.com/GSecAwareness/Onboard-iPhone/blob/main/1.PNG)  
 
 #### 3) On the next screen, read through “Device management and your privacy”   
 
@@ -25,7 +25,7 @@ Insert 1 pic (setup process)
       It can see your phone number and installed apps  
       It can see the location of a lost device  
 
-insert 2 pic
+![get-content](https://github.com/GSecAwareness/Onboard-iPhone/blob/main/2.PNG) 
 
 #### 4) Click on Continue to download the management profile. If it asks for permission, do so.  
 
@@ -33,7 +33,7 @@ insert 2 pic
 
 #### 5) Go to the Settings app and select Profile Downloaded.
 
-insert 3 pic
+![get-content](https://github.com/GSecAwareness/Onboard-iPhone/blob/main/3.PNG) 
 
 
 
