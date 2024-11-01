@@ -34,8 +34,12 @@
 
 #### 5) Go to the Settings app and select Profile Downloaded.
 
+<img src="https://github.com/GSecAwareness/Onboard-iPhone/blob/main/3.PNG" alt="get-content" width="300"/>  
 
-<img src="https://github.com/GSecAwareness/Onboard-iPhone/blob/main/3.PNG" alt="get-content" width="300"/>
+#### 6) After the security lockdown has ended, click on the notification to open the app
+#### 7) 
+
+
 
 
 
