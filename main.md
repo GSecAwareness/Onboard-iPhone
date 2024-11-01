@@ -36,8 +36,13 @@
 
 <img src="https://github.com/GSecAwareness/Onboard-iPhone/blob/main/3.PNG" alt="get-content" width="300"/>  
 
-#### 6) After the security lockdown has ended, click on the notification to open the app
-#### 7) 
+#### 6) After the security lockdown has ended, go to setting and click on Profile Downloaded
+insert managment profile pic
+
+#### 7) Choose to Install, located at the top right and enter your password. It will ask you again if you trust the profile's source for remote management. Choose Trust. 
+#### At this point you are taken to a screen to confirm the installation of a root certificate on your phone. A root certificate establishes a trusted connection between your device and your company’s network. It verifies that your device is connecting to a legitimate Intune server. It essentially tells your device, “This server is trusted by your organization, and any data exchange with it is safe.” Intune relies on certificates to encrypt communications between your device and the MDM server.
+
+#### 8) Once the management profile is installed, an pop-up will ask for adminstrative management rights for each app installed. Choose Change to allow management. The apps will install in the background. 
 
 
 
